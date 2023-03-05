@@ -3,7 +3,7 @@
 - 👀 Our research focus on optimization and machine learning.
 - 🌱 We are currently working on deep reinforcement learning and its application.
 - 💞️ We are looking forward to collaborate with you on any related topics.
-- 📫 How to reach me 27131375@qq.com
+- 📫 How to reach me lmhyx660@outlook.com
 
 <!---
 QiangLong2017/QiangLong2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
