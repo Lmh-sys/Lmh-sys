@@ -1,4 +1,4 @@
-# Lmh-sys-Lmh-sys
+# Lmh-sys
 - 👋 Hi, we are a team in SouthWest University of Science and Technology (SWUST), Mianyang China.
 - 👀 Our research focus on optimization and machine learning.
 - 🌱 We are currently working on deep reinforcement learning and its application.
